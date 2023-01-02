@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://drive.google.com/file/d/1wb6vlmFHN2lVyjR6m_R2J9xK0PfWxOaZ/view?usp=share_link
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/invite/b/YawwUMVa/ATTI6ff12a935c039496677f27bf681982f6C4015DB7/liftoff-group-project-trello
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/ashleyglenn0/inventory-tracker/
