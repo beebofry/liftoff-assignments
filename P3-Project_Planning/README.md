@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://drive.google.com/file/d/1wb6vlmFHN2lVyjR6m_R2J9xK0PfWxOaZ/view?usp=share_link
+https://drive.google.com/file/d/1LZrRgraef4E4d0SI20VKfBRUJO9MmtNe/view?usp=sharing
 
 ### Project Tracker
 
